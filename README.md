@@ -5,6 +5,9 @@
 <p align="center">
   <a>
     <img src="https://img.shields.io/badge/python-v3.6+-blue.svg">
+  </a>  
+  <a>
+    <img src="https://img.shields.io/badge/node-v16.0+-yellow.svg">
   </a>
   <a>
     <img src="https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg">
