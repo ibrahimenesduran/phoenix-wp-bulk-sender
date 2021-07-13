@@ -7,7 +7,6 @@
   <h3 align="center">Phoenix | Whatsapp Bulk Sender</h3>
 
   <p align="center">
-    Getting all universities with departments and details.
   <br />
     <a href="https://github.com/ibrahimenesduran/phoenix-wp-bulk-sender">View Demo</a>
     ·
@@ -41,7 +40,7 @@
 
 ## About
 
-You will be able to easily get the data from the YOK - Council of Higher Education in Turkey - very easily, with this program.
+You will be able to send bulk messages on whatsapp web, with this program.
 
 ### Notice
 
@@ -55,19 +54,29 @@ To get a local copy up and running follow these simple steps.
 
 * Install requirement packages
   ```sh
-  pip install pandas beautifulsoup4 requests progress
+  cd ./source/server
+  npm install express
+  npm install moment
+  npm install --save @wppconnect-team/wppconnect
   ```
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ibrahimenesduran/yokAtlas-crawler.git
+   git clone https://github.com/ibrahimenesduran/phoenix-wp-bulk-sender.git
    ```
-2. In src folder
+1. Go inside source folder
    ```sh
-   python main.py
+   cd source
    ```
+#### Server
+1. Go inside server folder
+   ```sh
+   cd server
+   ```
+
+#### Client
 
 ## License
 
