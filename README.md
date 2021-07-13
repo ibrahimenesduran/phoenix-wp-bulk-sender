@@ -2,7 +2,7 @@
 
 <h3 align="center">Phoenix | Whatsapp Bulk Sender</h3>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
 ![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
 [![GitHub Issues](https://img.shields.io/github/issues/ibrahimenesduran/phoenix-wp-bulk-sender.svg)](https://github.com/ibrahimenesduran/phoenix-wp-bulk-sender/issues)
