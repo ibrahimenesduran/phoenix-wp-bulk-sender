@@ -27,12 +27,12 @@
 
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  <a href="#özellikler">Özellikler</a> •
+  <a href="#nasıl-kullanılır">Nasıl kullanılır</a> •
+  <a href="#sürüm-notları">Sürüm notları</a> •
+  <a href="#credits">Eklenecekler</a> •
+  <a href="#related">Destek</a> •
+  <a href="#license">İletişim</a>
 </p>
 
 ## Özellikler
@@ -42,7 +42,13 @@
 * Ayarlanabilen mesajların arasındaki bekleme süresi
 * Aynı numaraya mesaj atma engelleme sistemi
 
-## Nasıl kullanacağız
+### Uyarı
+
+Yazılım Whatsapp Web üzerinden çalışmaktadır. Bu yüzden kullanılacak Whatsapp hesabı yazılım çalıştığı sürece internete bağlı olmalıdır.
+
+*Whatsapp numaranız spam olarak engellenebilir. Bu durumdan yazılım sahibi sorumlu tutulamaz.*
+
+## Nasıl kullanılır
 
 1- Programın kurulumunu yapacağınız sistemde [Python](https://www.python.org/downloads/) ve [Node.js](https://nodejs.org/en/download/) yüklü olması gerekmektedir. Eğer yüklü değilse linklerden kurulumunu yapabilirsiniz.
 
