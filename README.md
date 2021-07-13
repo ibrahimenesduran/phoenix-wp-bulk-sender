@@ -30,9 +30,9 @@
   <a href="#özellikler">Özellikler</a> •
   <a href="#nasıl-kullanılır">Nasıl kullanılır</a> •
   <a href="#sürüm-notları">Sürüm notları</a> •
-  <a href="#credits">Eklenecekler</a> •
-  <a href="#related">Destek</a> •
-  <a href="#license">İletişim</a>
+  <a href="#eklenecekler">Eklenecekler</a> •
+  <a href="#destek">Destek</a> •
+  <a href="#iletişim">İletişim</a>
 </p>
 
 ## Özellikler
