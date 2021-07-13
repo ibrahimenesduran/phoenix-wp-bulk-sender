@@ -30,6 +30,11 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+        <ul>
+            <li><a href="#server">Server</a></li>
+            <li><a href="#client">Client</a></li>
+        </ul>
+        <li><a href="#don't-forget">Don't Forget</a></li>
       </ul>
     </li>
     <li><a href="#license">License</a></li>
@@ -40,7 +45,7 @@
 
 ## About
 
-You will be able to send bulk messages on whatsapp web, with this program.
+You will be able to send bulk messages on Whatsapp Web, with this program.
 
 ### Notice
 
@@ -71,7 +76,8 @@ To get a local copy up and running follow these simple steps.
    ```sh
    git clone https://github.com/ibrahimenesduran/phoenix-wp-bulk-sender.git
    ```
-1. Go inside source folder
+
+2. Go inside source folder
    ```sh
    cd source
    ```
@@ -80,6 +86,7 @@ To get a local copy up and running follow these simple steps.
    ```sh
    cd server
    ```
+
 2. Run server.js
    ```sh
    node server.js
@@ -89,10 +96,28 @@ To get a local copy up and running follow these simple steps.
    ```sh
    cd client
    ```
+
 2. Run client.py
    ```sh
    python client.py
    ```
+
+### Don't Forget
+
+You have to add the numbers into the numbers.txt in source/client/variables folder.
+
+Example numbers.txt:
+```sh
+905555555555
+05555555555
+5555555555
+```
+
+* System will be automatically change numbers to valid numbers.
+* System will only work with Turkish numbers (+90). 
+
+## To Do
+
 
 ## License
 
