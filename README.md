@@ -59,7 +59,7 @@ To get a local copy up and running follow these simple steps.
   npm install moment
   npm install --save @wppconnect-team/wppconnect
   ```
-  
+
 * Install requirement packages for client on Python 3
   ```sh
   cd ./source/client
@@ -80,8 +80,19 @@ To get a local copy up and running follow these simple steps.
    ```sh
    cd server
    ```
-
+2. Run server.js
+   ```sh
+   node server.js
+   ```
 #### Client
+1. Go inside client folder
+   ```sh
+   cd client
+   ```
+2. Run client.py
+   ```sh
+   python client.py
+   ```
 
 ## License
 
