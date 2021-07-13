@@ -34,9 +34,10 @@
             <li><a href="#server">Server</a></li>
             <li><a href="#client">Client</a></li>
         </ul>
-        <li><a href="#don't-forget">Don't Forget</a></li>
+        <li><a href="#dont-forget">Don't Forget</a></li>
       </ul>
     </li>
+    <li><a href="#to-do">To Do</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -118,6 +119,11 @@ Example numbers.txt:
 
 ## To Do
 
+| #  | To Do |
+| ------------- | ------------- |
+| 1  | GUI Design  |
+| 2  | Add name support  |
+| 3  | Auto start - stop  |
 
 ## License
 
