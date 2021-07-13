@@ -46,7 +46,7 @@
 
 Yazılım Whatsapp Web üzerinden çalışmaktadır. Bu yüzden kullanılacak Whatsapp hesabı yazılım çalıştığı sürece internete bağlı olmalıdır.
 
-*Whatsapp numaranız spam olarak engellenebilir. Bu durumdan yazılım sahibi sorumlu tutulamaz.*
+**Whatsapp numaranız spam olarak engellenebilir. Bu durumdan yazılım sahibi sorumlu tutulamaz.**
 
 ## Nasıl kullanılır
 
