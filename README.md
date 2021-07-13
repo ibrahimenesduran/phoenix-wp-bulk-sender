@@ -49,7 +49,7 @@ Yazılım Whatsapp Web üzerinden çalışmaktadır. Bu yüzden kullanılacak Wh
 
 ## Nasıl kullanılır
 
-<p align="center"><img width=500px src="https://github.com/ibrahimenesduran/phoenix-wp-bulk-sender/blob/main/images/setup.gif"></p>
+<p align="center"><img heigth=500px src="https://github.com/ibrahimenesduran/phoenix-wp-bulk-sender/blob/main/images/setup.gif"></p>
 
 
 1- Programın kurulumunu yapacağınız sistemde [Python](https://www.python.org/downloads/) ve [Node.js](https://nodejs.org/en/download/) yüklü olması gerekmektedir. Eğer yüklü değilse linklerden kurulumunu yapabilirsiniz.
