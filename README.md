@@ -109,3 +109,15 @@ $ python client.py
 - `requests` kütüphanesi ile client - server iletişimi sağlandı.
 - `express` kütüphanesi ile server'a POST methodu ile mesaj atma özelliği eklendi.
 - Testlerden başarıyla geçti, kodlar `public`'e açıldı.
+
+## Eklenecekler
+
+- C# windows forms ile GUI tasarımı
+- İletişimin POST methodu yerine websocket ile sağlanması
+- Gruplara mesaj gönderme özelliği
+- Numaraların depolanmasını .txt yerine database'e geçme
+- Numaralara isim, soyisim vb. tanımlama
+- Otomatik TR numarası oluşturma
+- Spinleme özelliği
+- Mesajların sonuna numara ekleme
+- Mesajlar arası bekleme süresini rastgale seçeneği getirme
