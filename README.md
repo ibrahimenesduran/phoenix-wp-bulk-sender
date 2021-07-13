@@ -52,14 +52,19 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-* Install requirement packages
+* Install requirement packages for server on Node.js
   ```sh
   cd ./source/server
   npm install express
   npm install moment
   npm install --save @wppconnect-team/wppconnect
   ```
-
+  
+* Install requirement packages for client on Python 3
+  ```sh
+  cd ./source/client
+  pip install termcolor requests
+  ```
 ### Installation
 
 1. Clone the repo
