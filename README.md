@@ -31,7 +31,6 @@
   <a href="#nasıl-kullanılır">Nasıl kullanılır</a> •
   <a href="#sürüm-notları">Sürüm notları</a> •
   <a href="#eklenecekler">Eklenecekler</a> •
-  <a href="#destek">Destek</a> •
   <a href="#iletişim">İletişim</a>
 </p>
 
@@ -121,3 +120,9 @@ $ python client.py
 - Spinleme özelliği
 - Mesajların sonuna numara ekleme
 - Mesajlar arası bekleme süresini rastgale seçeneği getirme
+
+## İletişim
+
+İbrahim Enes Duran - Istanbul Teknik Üniversitesi - [LinkedIn](https://linkedin.com/in/ibrahimenesduran)
+
+
