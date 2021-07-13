@@ -102,3 +102,10 @@ $ python client.py
 ```
 
 2- Gerekli adımları konsol ekranından takip ediniz.
+
+## Sürüm Notları
+
+#### v0.1.1 Beta 
+- `requests` kütüphanesi ile client - server iletişimi sağlandı.
+- `express` kütüphanesi ile server'a POST methodu ile mesaj atma özelliği eklendi.
+- Testlerden başarıyla geçti, kodlar `public`'e açıldı.
