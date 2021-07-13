@@ -124,7 +124,7 @@ Example numbers.txt:
 * Number - Name support
 * Number generator
 * Pause - Start
-* Multi-thread
+
 
 ## License
 
