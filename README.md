@@ -119,11 +119,12 @@ Example numbers.txt:
 
 ## To Do
 
-| #  | To Do |
-| ------------- | ------------- |
-| 1  | GUI Design  |
-| 2  | Add name support  |
-| 3  | Auto start - stop  |
+* UI Design [C#]
+* Random delay
+* Number - Name support
+* Number generator
+* Pause - Start
+* Multi-thread
 
 ## License
 
