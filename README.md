@@ -32,6 +32,34 @@
 
 ## Nasıl kullanacağız
 
-Programın kurulumunu yapacağınız sistemde [Python](https://www.python.org/downloads/) ve [Node.js](https://nodejs.org/en/download/) yüklü olması gerekmektedir. Eğer yüklü değilse linklerden kurulumunu yapabilirsiniz.
+1- Programın kurulumunu yapacağınız sistemde [Python](https://www.python.org/downloads/) ve [Node.js](https://nodejs.org/en/download/) yüklü olması gerekmektedir. Eğer yüklü değilse linklerden kurulumunu yapabilirsiniz.
 
+2- Kurulumları sağladıktan sonra: 
 
+```bash
+# Repository'i indiriniz.
+$ git clone https://github.com/ibrahimenesduran/phoenix-wp-bulk-sender.git
+
+# İndirdiğiniz repository'i açınız
+$ cd phoenix-wp-bulk-sender
+
+# Source klasörüne giriniz
+$ cd source
+
+```
+
+3- İlk olarak server kısmının kurulumunu sağlayın.
+
+```bash
+# Server dosyasına giriniz
+$ cd server
+
+# Gerekli kütüphaneleri yükleyiniz
+$  npm install express
+$  npm install moment
+$  npm install --save @wppconnect-team/wppconnect
+
+# server.js'yi başlatınız.
+$ node server.js
+
+```
