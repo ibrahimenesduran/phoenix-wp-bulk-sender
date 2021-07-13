@@ -133,3 +133,9 @@ Distributed under the MIT License. See LICENSE for more information.
 ## Contact
 
 İbrahim Enes Duran - Istanbul Technical University - [LinkedIn](https://linkedin.com/in/ibrahimenesduran)
+
+## Knowladgment
+
+* https://github.com/wppconnect-team/wppconnect
+* https://expressjs.com/en/guide/routing.html
+* https://docs.python-requests.org/en/master/
