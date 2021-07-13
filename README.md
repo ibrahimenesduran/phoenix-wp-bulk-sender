@@ -23,3 +23,15 @@
   </a>
 </p>
 
+## Özellikler
+
+* Otomatik numara kontrol sistemi
+* İşlem sonucunda ulaşılmayan numaraları görme
+* Ayarlanabilen mesajların arasındaki bekleme süresi
+* Aynı numaraya mesaj atma engelleme sistemi
+
+## Nasıl kullanacağız
+
+Programın kurulumunu yapacağınız sistemde [Python](https://www.python.org/downloads/) ve [Node.js](https://nodejs.org/en/download/) yüklü olması gerekmektedir. Eğer yüklü değilse linklerden kurulumunu yapabilirsiniz.
+
+
