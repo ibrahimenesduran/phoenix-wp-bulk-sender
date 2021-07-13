@@ -2,6 +2,8 @@
 
 <h3 align="center">Phoenix | Whatsapp Toplu Mesaj</h3>
 
+<h4 align="center">Whatsapp Web üzerinden otomatik toplu mesaj gönderici</h4>
+
 <p align="center">
   <a>
     <img src="https://img.shields.io/badge/python-v3.6+-blue.svg">
@@ -21,6 +23,16 @@
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg">
   </a>
+</p>
+
+
+<p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#download">Download</a> •
+  <a href="#credits">Credits</a> •
+  <a href="#related">Related</a> •
+  <a href="#license">License</a>
 </p>
 
 ## Özellikler
