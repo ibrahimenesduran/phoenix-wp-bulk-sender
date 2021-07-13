@@ -47,8 +47,9 @@ $ cd phoenix-wp-bulk-sender
 $ cd source
 
 ```
+### Server kurulumu
 
-3- İlk olarak server kısmının kurulumunu sağlayın.
+1- Server kısmının kurulumunu sağlayın.
 
 ```bash
 # Server dosyasına giriniz
@@ -61,5 +62,25 @@ $  npm install --save @wppconnect-team/wppconnect
 
 # server.js'yi başlatınız.
 $ node server.js
-
 ```
+
+2- Ekrana gelen QR kodu whatsapp'a okutunuz.
+
+3- Artık arka tarafta çalışmaya hazır.
+
+### Client kurulumu
+
+1- Client kısmının kurulumunu sağlayın.
+
+```bash
+# Client dosyasına giriniz
+$ cd client
+
+# Gerekli kütüphaneleri yükleyiniz
+$  pip install termcolor requests
+
+# client.py'yi başlatınız.
+$ python client.py
+```
+
+2- Gerekli adımları konsol ekranından takip ediniz.
