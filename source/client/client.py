@@ -23,7 +23,6 @@ def logger(err, message):
 def senderEngine(Numbers, message, host, delay):
     statusJSON = {
         'Numbers': {
-            'not send': Numbers,
             'sent': [],
             'not user in WP': []
         }
@@ -47,8 +46,9 @@ def senderEngine(Numbers, message, host, delay):
         logger(0, 'Client is creating ./saves folder...')
         os.mkdir('./saves')
 
-    
+
     for number in Numbers:
+        logger(0, 'Message sending: {}'.format(number))
         payload = {'Number': str(number) + '@c.us', 'Message': message }  
         response = requests.post('http://' + host + '/send', json=payload)
         
@@ -58,11 +58,9 @@ def senderEngine(Numbers, message, host, delay):
             logger(1, 'Please check your server or IP:PORT!')
         elif (response.status_code == 200 and response.json() == False):
             statusJSON['Numbers']['not user in WP'].append(number)
-            statusJSON['Numbers']['not send'].remove(number)
         else:
             statusJSON['Numbers']['sent'].append(number)
-            statusJSON['Numbers']['not send'].remove(number)
-            
+        
         time.sleep(delay)
 
     print(statusJSON)
