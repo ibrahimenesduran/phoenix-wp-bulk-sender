@@ -1,10 +1,9 @@
-<h1 align="center">
+
 <p align="center"><img width=12.5% src="https://github.com/ibrahimenesduran/phoenix-wp-bulk-sender/blob/main/images/logo.png"></p>
+
+
 <h3 align="center">Phoenix | Whatsapp Toplu Mesaj</h3>
-</h1>
-
-
-
+<h1 align="center"></h1>
 <h4 align="center">Whatsapp Web üzerinden otomatik toplu mesaj gönderici</h4>
 
 <p align="center">
